@@ -1,0 +1,9 @@
+```uml
+@startuml
+
+    Class A
+    Class B
+ 	A <|-- B
+
+@enduml
+```
